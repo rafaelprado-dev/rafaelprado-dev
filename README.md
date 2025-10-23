@@ -33,30 +33,38 @@
 </div>
 
 ## Sobre mim
-Creative Developer sempre buscando **inovação**, **componentes criativos** e **experiências imersivas**.  
-Prioridades: **emoção visual**, **animação**, **storytelling**, **UX intuitiva**, **acessibilidade** e depois **performance**.  
-Hoje trabalho com **Next.js, TypeScript, Tailwind, React, Firebase (Auth/Firestore/Storage), React Native/Expo, Vercel**.
 
-## Languages & Tools
+Sou um **desenvolvedor Front-end** focado em transformar ideias e sonhos em experiências visuais e interativas que despertam emoções, contam histórias e trazem vida às interfaces,
+buscando **inovação em cada detalhe**, desde a animação até o storytelling que conecta o usuário com o projeto.
+
+
+**Foco:** inovação, componentes criativos, experiências imersivas  
+**Prioridades:** emoção visual, animação, storytelling, UX intuitiva, acessibilidade e performance  
+
+Atualmente trabalho com **Next.js, TypeScript, Tailwind CSS, React, Firebase (Auth/Firestore/Storage), React Native/Expo e Vercel**.
+
+
+## Linguagens e Ferramentas
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
 </div>
 
-## GitHub • Stats
+
+## Minhas Estatísticas
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -79,6 +87,12 @@ Hoje trabalho com **Next.js, TypeScript, Tailwind, React, Firebase (Auth/Firesto
     </td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelprado-dev/rafaelprado-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelprado-dev/rafaelprado-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaelprado-dev/rafaelprado-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center" style="width:100%;margin:0;padding:0;">
   <img
