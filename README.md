@@ -1,6 +1,6 @@
 <div align="center" style="width:100%;margin:0;padding:0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=purple"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=purple"
     alt="header wave"
     width="100%"
     style="display:block;max-width:100%;height:auto;margin:0;padding:0;border:0;"
@@ -12,7 +12,6 @@
     <div style="flex: 1; text-align: left;">
       <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVsYmoweGw4YjdpNDRqM3NkYzl6Nmt5YTV5aW9ieXFtZjQ2bnAwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pZV6Bd0xoWa4IF8XwU/giphy.gif" alt="gatinho animado" />
     </div>
-    <!-- Título + subtítulo (direita) -->
     <div style="flex: 1; text-align: right;">
       <div align="center">
         <h1 style="margin: 0;">Rafael Prado • Creative Developer</h1>
@@ -23,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+   <a href="https://www.linkedin.com/in/rafaelpradodev" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
@@ -46,21 +45,21 @@ Atualmente trabalho com **Next.js, TypeScript, Tailwind CSS, React, Firebase (Au
 
 ## Linguagens e Ferramentas
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" /></a>
 </div>
 
 
@@ -94,9 +93,48 @@ Atualmente trabalho com **Next.js, TypeScript, Tailwind CSS, React, Firebase (Au
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaelprado-dev/rafaelprado-dev/output/pacman-contribution-graph.svg">
 </picture>
 
+## Projeto em Destaque (privado)
+
+> Mesmo privado, deixo aqui uma visão geral profissional do projeto.
+
+<details>
+  <summary><strong>GCDP — Plataforma Gamificada de Desenvolvimento Corporativo</strong></summary>
+
+<br>
+
+Plataforma web para treinamento e onboarding de colaboradores com recursos de **gamificação** (XP, níveis, conquistas, streaks) e suporte **multiempresa (multi-tenant)**.  
+Projeto de TCC com foco em engajamento corporativo, adaptável a diferentes organizações.
+
+### Funcionalidades
+- Login com controle de acesso (colaborador, RH, admin)
+- Dashboard com XP, conquistas e progresso
+- Onboarding com quiz interativo e missões
+- Trilhas de treinamento com controle de conclusão
+- Sistema de feedbacks e elogios
+- Painel administrativo com CRUD de cursos/trilhas
+- Gamificação: streaks, leaderboard, badges
+- Suporte multiempresa com `companyId` no Firestore
+
+### Tecnologias
+- **Next.js 15 (App Router)** + **TypeScript**
+- **Firebase** (Auth, Firestore, Storage)
+- **Zustand** (estado global)
+- **Tailwind CSS** + **Framer Motion**
+- **React Query**, **Zod**, **Lucide**, entre outros
+- **Deploy:** Vercel (CI/CD)
+
+</details>
+
+---
+
+<p align="center">
+  <sub>© 2025 · Rafael Prado Profeta</sub>
+</p>
+
+
 <div align="center" style="width:100%;margin:0;padding:0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=purple"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=purple"
     alt="footer wave"
     width="100%"
     style="display:block;max-width:100%;height:auto;margin:0;padding:0;border:0;"
