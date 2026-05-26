@@ -22,10 +22,32 @@
 </div>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/rafaelpradodev" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/rafaelpradodev/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://rafaelprado.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="Portfólio"
+    />
+  </a>
+
+  <a href="https://discord.com/users/1234606766315278368" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=bordo_maple&logo=discord&label=Discord&color=5865F2&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="Discord"
+    />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rafaelprado-dev.rafaelprado-dev&"  />
@@ -67,21 +89,11 @@ Atualmente trabalho com **Next.js, TypeScript, Tailwind CSS, React, Firebase (Au
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img height="170" alt="stats"
-        src="https://github-readme-stats.vercel.app/api?username=rafaelprado-dev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img height="170" alt="top-langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelprado-dev&layout=compact&langs_count=6&card_width=360&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img height="170" alt="streak"
+      <img height="170" alt="GitHub streak"
         src="https://streak-stats.demolab.com?user=rafaelprado-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="170" alt="activity graph"
+      <img height="170" alt="Activity graph"
         src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelprado-dev&theme=tokyo-night&hide_border=true&area=false" />
     </td>
   </tr>
