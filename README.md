@@ -90,7 +90,7 @@ Atualmente trabalho com **Next.js, TypeScript, Tailwind CSS, React, Firebase (Au
   <tr>
     <td width="50%" align="center" valign="middle">
       <img height="170" alt="GitHub streak"
-        src="https://streak-stats.demolab.com?user=rafaelprado-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+        src="https://github-readme-streak-stats-brasil.vercel.app?user=rafaelprado-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img height="170" alt="Activity graph"
